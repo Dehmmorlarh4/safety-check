@@ -1,2 +1,0 @@
-# safety-check
-check safety
